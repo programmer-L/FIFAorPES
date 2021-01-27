@@ -1,0 +1,53 @@
+h1 {
+    color:darkviolet;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    background: peru;
+}
+
+header{
+    background: blue;
+    text-align: left;
+    color: white;
+    position: fixed;
+}
+
+th {
+    border: 1px solid darkblue;
+}
+
+td {
+    border: 1px solid blue;
+}
+
+footer {
+    background:lightgreen;
+}
+
+body {
+    text-align: center;
+    background: peru;
+}
+
+header a{
+    color:white;
+}
+
+footer h2{
+    color:blue;
+}
+
+.container {   width: 75%;
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px auto;
+}
+
+.sait{
+    background:purpure;
+}
